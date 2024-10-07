@@ -6,7 +6,7 @@ I expect to learn a lot about modern software maintenance practices and how to w
 - **Fun fact**: I love watching YouTube in my free time.
 - **Course expectations**: To gain hands-on experience in maintaining and evolving software.
 
-![My Image](WhatsApp Image 2023-01-16 at 10.40.14 AM.jpeg)  <!-- WhatsApp Image 2023-01-16 at 10.40.14 AM.jpeg -->
+![My Image](image.jpeg)  <!-- WhatsApp Image 2023-01-16 at 10.40.14 AM.jpeg -->
 
 ## GitHub Profile
 
